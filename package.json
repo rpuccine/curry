@@ -1,0 +1,12 @@
+{
+  "name": "curry",
+  "version": "1.0.0",
+  "author": "rpuccine",
+  "license": "MIT",
+  "scripts": {
+      "test": "mocha"
+  },
+  "dependencies": {
+    "mocha": "^4.0.1"
+  }
+}
